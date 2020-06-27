@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Astrologer</string>
+    <string name="action_settings">Copyright</string>
+    <string name="name_hint">Enter Name</string>
+    <string name="jadoo">Jadoo Baba</string>
+    <string name="Empty"> </string>
+</resources>
